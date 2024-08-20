@@ -11,6 +11,9 @@
 - **spring-boot-devtools**: Provides additional development-time features.
 - **PostgreSQL**: PostgreSQL database driver.
 - **spring-boot-starter-web**: Includes dependencies for building web applications, handling RESTful web services, Spring MVC, embedded Tomcat, and Jackson for JSON processing.
+- **spring-boot-starter-data-jpa**:The spring-boot-starter-data-jpa dependency is a crucial part of a Spring Boot application that uses Spring Data JPA for database interactions. It includes everything you need to get started with JPA, a popular Java ORM framework, and it simplifies the integration and configuration of JPA in your Spring Boot application.
+It includes Spring Data JPA,Hibernate,Spring Boot Auto-Configuration, Integration with Spring Boot:
+- **javax.persistence-api**:The JPA API required to work with JPA annotations.
 
 ## Setup Instructions
 
