@@ -1,6 +1,7 @@
 ## MultiThreadedFileUpload
 # File Upload Project
-
+## Project Description:
+This project monitors a directory for changes such as file creation, modification, or deletion. It utilizes the WatchService API provided by Java NIO to watch for these events and reacts accordingly by processing the files based on their type using a FileProcessor.
 ## Technologies
 
 - **Database:** PostgreSQL
