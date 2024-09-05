@@ -2,6 +2,12 @@
 # File Upload Project
 ## Project Description:
 This project monitors a directory for changes such as file creation, modification, or deletion. It utilizes the WatchService API provided by Java NIO to watch for these events and reacts accordingly by processing the files based on their type using a FileProcessor.
+
+## Key Features:
+- **Asynchronous Monitoring:** The monitoring happens in a separate daemon thread, ensuring that it doesn't block the main application thread.
+- **Graceful Shutdown:** The service ensures that resources like the WatchService are closed properly when the application stops.
+- **File Processing:**   The service delegates the file processing to a FileProcessor based on the file's extension, allowing different handling for different file types.
+
 ## Technologies
 
 - **Database:** PostgreSQL
