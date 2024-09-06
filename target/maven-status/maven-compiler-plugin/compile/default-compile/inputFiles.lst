@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\controller\FileController.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\entity\FilesEntity.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\FileUploadMultithreadingApplication.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\monitor\DirectorWatchService.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\repositories\FilesRepo.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\FileFactory.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\FileProcessor.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\FileService.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\PdfFileProcessor.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\TextFileProcessor.java
+C:\Users\Admin\Desktop\Demo Framework\Multithreading File Upload Project\file_upload_multithreading\src\main\java\com\example\services\WordFileProcessor.java

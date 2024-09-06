@@ -1,0 +1,11 @@
+com\example\repositories\FilesRepo.class
+com\example\services\TextFileProcessor.class
+com\example\services\FileService.class
+com\example\controller\FileController.class
+com\example\services\WordFileProcessor.class
+com\example\entity\FilesEntity.class
+com\example\FileUploadMultithreadingApplication.class
+com\example\monitor\DirectorWatchService.class
+com\example\services\PdfFileProcessor.class
+com\example\services\FileFactory.class
+com\example\services\FileProcessor.class
